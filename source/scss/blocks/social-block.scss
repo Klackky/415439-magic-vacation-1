@@ -167,6 +167,7 @@
   height: 4rem;
   color: $c-light;
   border: 2px solid transparent;
+  transition: color 200ms ease-in;
   border-radius: 50%;
 
   @media (min-width: $stop-scaling) {
